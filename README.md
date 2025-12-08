@@ -1,6 +1,5 @@
 # ma1800-FinalWebArtProject
 
-https://sumaiyahx.github.io/ma1800-FinalWebArtProject/
 
 For my web-art project, I decided to base it off of memes. This is because memes are the common language of the internet, which therefore makes them a huge part of online culture. Memes explore the internet as a medium through how easy they are to be shared and by showing how ideas spread and evolve online. I decided to do it on memes as they highlight the participatory nature of digital culture, as audiences can actively create and adapt meaning. 
 
